@@ -1,0 +1,37 @@
+body {
+    background: #ffffff;
+}
+
+section {
+    background: #E5E5E5;
+}
+
+.h1Header {
+    color: #D60020;
+    font-size: 48px;
+}
+
+.h2Header {
+    color: #000000;
+    font-size: 36px;
+}
+
+.h3Header {
+    color: #000000;
+    font-size: 28px;
+}
+
+.textIntroduction {
+    color: #000000;
+    font-size: 22px;
+}
+
+.textFooter {
+    color: #777777;
+    font-size: 14px;
+}
+
+.text {
+    color: #000000;
+    font-size: 18px;
+}
